@@ -1,0 +1,3 @@
+What happens when you initialise a repository? Why do you need to do it?
+
+Using the “git init” function creates a hidden git repository and allows you to start making commits to your files. This allows you to store previous versions of your work is the fundamental for version control.
