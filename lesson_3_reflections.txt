@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 If you are working on a project that would require you to use multiple machines, or if multiple people were working on the same project and were updating the project from different machines.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branches are used within the same repository. Clones are used to copy a repository from GitHub to your local machine, or from your local machine to another space on your machine. Fork is used to copy a repository by another person from GitHub onto your GitHub profile.
